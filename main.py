@@ -350,6 +350,7 @@ class Application(tk.Tk):
 
         self.destroy()
 
+
     def registrar_preco(self, preco):
         """Registra o preço atual no log de preços"""
         try:
