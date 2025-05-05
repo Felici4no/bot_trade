@@ -1,0 +1,8 @@
+binance-connector
+pandas
+numpy
+matplotlib
+tk
+ta
+python-telegram-bot
+requests
